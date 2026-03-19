@@ -9,3 +9,15 @@
     }
   }
 ]
+
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "atas.indonesia",
+      "sha256_cert_fingerprints":
+        ["FA:8A:9C:CA:7A:28:5B:DD:A8:1B:A0:62:5B:6D:FE:14:18:95:E2:94:00:86:0B:2A:4A:62:2C:24:98:4E:90:67"]
+    }
+  }
+]
